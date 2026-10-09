@@ -1,0 +1,21 @@
+parent,input_type,unit,geography,other_index_1,other_index_2,interpolation_method,extrapolation_method,extrapolation_growth,source,notes,gau,oth_1,oth_2,year,value
+slow: iron and steel|coal coke|charcoal,intensity,,global,,,linear_interpolation,nearest,,,,all,,,2024,0
+slow: iron and steel|coal coke|charcoal,intensity,,global,,,linear_interpolation,nearest,,,,all,,,2050,0.2
+slow: iron and steel|coal coke|dry natural gas,intensity,,global,,,linear_interpolation,nearest,,,,all,,,2024,0
+slow: iron and steel|coal coke|dry natural gas,intensity,,global,,,linear_interpolation,nearest,,,,all,,,2050,0.2
+slow: iron and steel|steam coal 6000|charcoal,intensity,,global,,,linear_interpolation,nearest,,,,all,,,2024,0
+slow: iron and steel|steam coal 6000|charcoal,intensity,,global,,,linear_interpolation,nearest,,,,all,,,2050,0.2
+slow: iron and steel|steam coal 6000|dry natural gas,intensity,,global,,,linear_interpolation,nearest,,,,all,,,2024,0
+slow: iron and steel|steam coal 6000|dry natural gas,intensity,,global,,,linear_interpolation,nearest,,,,all,,,2050,0.2
+fast: iron and steel|coal coke|charcoal,intensity,,global,,,linear_interpolation,nearest,,,,all,,,2024,0
+fast: iron and steel|coal coke|charcoal,intensity,,global,,,linear_interpolation,nearest,,,,all,,,2024,0.48
+fast: iron and steel|steam coal 6000|charcoal,intensity,,global,,,linear_interpolation,nearest,,,,all,,,2024,0
+fast: iron and steel|steam coal 6000|charcoal,intensity,,global,,,linear_interpolation,nearest,,,,all,,,2024,0.48
+fast: iron and steel|coal coke|dry natural gas,intensity,,global,,,linear_interpolation,nearest,,,,all,,,2024,0
+fast: iron and steel|coal coke|dry natural gas,intensity,,global,,,linear_interpolation,nearest,,,,all,,,2024,0.42
+fast: iron and steel|steam coal 6000|dry natural gas,intensity,,global,,,linear_interpolation,nearest,,,,all,,,2024,0
+fast: iron and steel|steam coal 6000|dry natural gas,intensity,,global,,,linear_interpolation,nearest,,,,all,,,2024,0.42
+fast: iron and steel|coal coke|electricity,intensity,,global,,,linear_interpolation,nearest,,,,all,,,2024,0
+fast: iron and steel|coal coke|electricity,intensity,,global,,,linear_interpolation,nearest,,,,all,,,2024,0.05
+fast: iron and steel|steam coal 6000|electricity,intensity,,global,,,linear_interpolation,nearest,,,,all,,,2024,0
+fast: iron and steel|steam coal 6000|electricity,intensity,,global,,,linear_interpolation,nearest,,,,all,,,2024,0.05

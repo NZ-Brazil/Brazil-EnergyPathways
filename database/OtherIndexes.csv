@@ -1,0 +1,9 @@
+name,other_index
+workday,day_type
+saturday,day_type
+sunday,day_type
+commercial,dispatch_feeder
+industry,dispatch_feeder
+residential,dispatch_feeder
+data centers,dispatch_feeder
+public lighting,dispatch_feeder

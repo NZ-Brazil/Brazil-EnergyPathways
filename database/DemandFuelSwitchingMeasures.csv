@@ -1,0 +1,11 @@
+name,subsector,final_energy_from,final_energy_to,stock_decay_function,max_lifetime,min_lifetime,mean_lifetime,lifetime_variance
+slow: iron and steel|coal coke|charcoal, iron and steel-pp pig iron, coal coke, charcoal, weibull,,6,2
+slow: iron and steel|coal coke|dry natural gas, iron and steel-pp pig iron, coal coke, charcoal, weibull,,6,2
+slow: iron and steel|steam coal 6000|charcoal, iron and steel-pp pig iron, steam coal 6000, charcoal, weibull,,6,2
+slow: iron and steel|steam coal 6000|dry natural gas, iron and steel-pp pig iron, steam coal 6000, charcoal, weibull,,6,2
+fast: iron and steel|coal coke|charcoal, iron and steel-pp pig iron, coal coke, charcoal, weibull,,6,2
+fast: iron and steel|steam coal 6000|charcoal, iron and steel-pp pig iron, steam coal 6000, charcoal, weibull,,6,2
+fast: iron and steel|coal coke|dry natural gas, iron and steel-pp pig iron, coal coke, dry natural gas, weibull,,6,2
+fast: iron and steel|steam coal 6000|dry natural gas, iron and steel-pp pig iron, steam coal 6000, dry natural gas, weibull,,6,2
+fast: iron and steel|coal coke|electricity, iron and steel-pp pig iron, coal coke, electricity, weibull,,6,2
+fast: iron and steel|steam coal 6000|electricity, iron and steel-pp pig iron, steam coal 6000, electricity, weibull,,6,2

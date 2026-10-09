@@ -1,0 +1,97 @@
+name,subsector,input_type,unit,geography,other_index_1,other_index_2,interpolation_method,extrapolation_method,extrapolation_growth,stock_decay_function,min_lifetime,max_lifetime,mean_lifetime,lifetime_variance,source,notes,final_energy,gau,oth_1,oth_2,year,value
+low: sectoral energy efficiency residential,residential,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+low: sectoral energy efficiency residential,residential,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.1
+medium: sectoral energy efficiency residential,residential,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+medium: sectoral energy efficiency residential,residential,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.15
+high: sectoral energy efficiency residential,residential,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+high: sectoral energy efficiency residential,residential,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.25
+low: sectoral energy efficiency restaurant,restaurant,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+low: sectoral energy efficiency restaurant,restaurant,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.1
+medium: sectoral energy efficiency restaurant,restaurant,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+medium: sectoral energy efficiency restaurant,restaurant,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.15
+high: sectoral energy efficiency restaurant,restaurant,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+high: sectoral energy efficiency restaurant,restaurant,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.25
+low: sectoral energy efficiency beauty salon,beauty salon,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+low: sectoral energy efficiency beauty salon,beauty salon,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.1
+medium: sectoral energy efficiency beauty salon,beauty salon,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+medium: sectoral energy efficiency beauty salon,beauty salon,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.15
+high: sectoral energy efficiency beauty salon,beauty salon,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+high: sectoral energy efficiency beauty salon,beauty salon,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.2
+low: sectoral energy efficiency school,school,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+low: sectoral energy efficiency school,school,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.1
+medium: sectoral energy efficiency school,school,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+medium: sectoral energy efficiency school,school,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.15
+high: sectoral energy efficiency school,school,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+high: sectoral energy efficiency school,school,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.25
+low: sectoral energy efficiency supermarket,supermarket,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+low: sectoral energy efficiency supermarket,supermarket,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.1
+medium: sectoral energy efficiency supermarket,supermarket,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+medium: sectoral energy efficiency supermarket,supermarket,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.2
+high: sectoral energy efficiency supermarket,supermarket,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+high: sectoral energy efficiency supermarket,supermarket,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.3
+low: sectoral energy efficiency health service,health service,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+low: sectoral energy efficiency health service,health service,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.1
+medium: sectoral energy efficiency health service,health service,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+medium: sectoral energy efficiency health service,health service,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.2
+high: sectoral energy efficiency health service,health service,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+high: sectoral energy efficiency health service,health service,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.3
+low: sectoral energy efficiency accommodation,accommodation,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+low: sectoral energy efficiency accommodation,accommodation,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.1
+medium: sectoral energy efficiency accommodation,accommodation,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+medium: sectoral energy efficiency accommodation,accommodation,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.15
+high: sectoral energy efficiency accommodation,accommodation,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+high: sectoral energy efficiency accommodation,accommodation,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.25
+low: sectoral energy efficiency others commercial,others commercial,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+low: sectoral energy efficiency others commercial,others commercial,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.02
+medium: sectoral energy efficiency others commercial,others commercial,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+medium: sectoral energy efficiency others commercial,others commercial,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.1
+high: sectoral energy efficiency others commercial,others commercial,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+high: sectoral energy efficiency others commercial,others commercial,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.15
+low: buildings efficiency and behavior residential,residential,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+low: buildings efficiency and behavior residential,residential,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.05
+medium: buildings efficiency and behavior residential,residential,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+medium: buildings efficiency and behavior residential,residential,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.1
+high: buildings efficiency and behavior residential,residential,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+high: buildings efficiency and behavior residential,residential,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.3
+low: buildings efficiency and behavior restaurant,restaurant,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+low: buildings efficiency and behavior restaurant,restaurant,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.05
+medium: buildings efficiency and behavior restaurant,restaurant,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+medium: buildings efficiency and behavior restaurant,restaurant,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.1
+high: buildings efficiency and behavior restaurant,restaurant,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+high: buildings efficiency and behavior restaurant,restaurant,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.3
+low: buildings efficiency and behavior beauty salon,beauty salon,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+low: buildings efficiency and behavior beauty salon,beauty salon,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.05
+medium: buildings efficiency and behavior beauty salon,beauty salon,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+medium: buildings efficiency and behavior beauty salon,beauty salon,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.1
+high: buildings efficiency and behavior beauty salon,beauty salon,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+high: buildings efficiency and behavior beauty salon,beauty salon,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.3
+low: buildings efficiency and behavior school,school,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+low: buildings efficiency and behavior school,school,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.05
+medium: buildings efficiency and behavior school,school,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+medium: buildings efficiency and behavior school,school,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.1
+high: buildings efficiency and behavior school,school,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+high: buildings efficiency and behavior school,school,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.3
+low: buildings efficiency and behavior supermarket,supermarket,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+low: buildings efficiency and behavior supermarket,supermarket,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.05
+medium: buildings efficiency and behavior supermarket,supermarket,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+medium: buildings efficiency and behavior supermarket,supermarket,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.1
+high: buildings efficiency and behavior supermarket,supermarket,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+high: buildings efficiency and behavior supermarket,supermarket,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.3
+low: buildings efficiency and behavior health service,health service,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+low: buildings efficiency and behavior health service,health service,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.05
+medium: buildings efficiency and behavior health service,health service,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+medium: buildings efficiency and behavior health service,health service,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.1
+high: buildings efficiency and behavior health service,health service,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+high: buildings efficiency and behavior health service,health service,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.3
+low: buildings efficiency and behavior accommodation,accommodation,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+low: buildings efficiency and behavior accommodation,accommodation,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.05
+medium: buildings efficiency and behavior accommodation,accommodation,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+medium: buildings efficiency and behavior accommodation,accommodation,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.1
+high: buildings efficiency and behavior accommodation,accommodation,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+high: buildings efficiency and behavior accommodation,accommodation,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.3
+low: buildings efficiency and behavior others commercial,others commercial,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+low: buildings efficiency and behavior others commercial,others commercial,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.05
+medium: buildings efficiency and behavior others commercial,others commercial,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+medium: buildings efficiency and behavior others commercial,others commercial,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.1
+high: buildings efficiency and behavior others commercial,others commercial,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2024,0
+high: buildings efficiency and behavior others commercial,others commercial,intensity,,global,,,linear_interpolation,nearest,,weibull,,,15,6,,,electricity,all,,,2050,0.3

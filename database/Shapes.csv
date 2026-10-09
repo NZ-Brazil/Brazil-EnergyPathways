@@ -1,0 +1,7 @@
+name,shape_type,shape_unit_type,time_zone,geography,other_index_1,other_index_2,geography_map_key,interpolation_method,extrapolation_method,input_type,supply_or_demand_side,is_active
+industry_electricity,time slice,power,Etc/GMT-3,state,day_type,dispatch_feeder,,linear_interpolation,linear_interpolation,intensity,d,TRUE
+bulk_electricity,weather date,power,Etc/GMT-3,state,,,,linear_interpolation,linear_interpolation,total,d,TRUE
+commercial_electricity,time slice,power,Etc/GMT-3,state,day_type,dispatch_feeder,,linear_interpolation,linear_interpolation,intensity,d,TRUE
+residential_electricity,time slice,power,Etc/GMT-3,state,day_type,dispatch_feeder,,linear_interpolation,linear_interpolation,intensity,d,TRUE
+data centers_electricity,time slice,power,Etc/GMT-3,state,day_type,dispatch_feeder,,linear_interpolation,linear_interpolation,intensity,d,TRUE
+public lighting_electricity,time slice,power,Etc/GMT-3,state,day_type,dispatch_feeder,,linear_interpolation,linear_interpolation,intensity,d,TRUE

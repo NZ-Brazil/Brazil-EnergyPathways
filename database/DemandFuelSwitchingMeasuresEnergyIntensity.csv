@@ -1,0 +1,11 @@
+parent,geography,other_index_1,other_index_2,interpolation_method,extrapolation_method,extrapolation_growth,source,notes,gau,oth_1,oth_2,year,value
+slow: iron and steel|coal coke|charcoal,global,,,linear_interpolation,nearest,,,,all,,,2024,1
+slow: iron and steel|coal coke|dry natural gas,global,,,linear_interpolation,nearest,,,,all,,,2024,1
+slow: iron and steel|steam coal 6000|charcoal,global,,,linear_interpolation,nearest,,,,all,,,2024,1
+slow: iron and steel|steam coal 6000|dry natural gas,global,,,linear_interpolation,nearest,,,,all,,,2024,1
+fast: iron and steel|coal coke|charcoal,global,,,linear_interpolation,nearest,,,,all,,,2024,1
+fast: iron and steel|steam coal 6000|charcoal,global,,,linear_interpolation,nearest,,,,all,,,2024,1
+fast: iron and steel|coal coke|dry natural gas,global,,,linear_interpolation,nearest,,,,all,,,2024,1
+fast: iron and steel|steam coal 6000|dry natural gas,global,,,linear_interpolation,nearest,,,,all,,,2024,1
+fast: iron and steel|coal coke|electricity,global,,,linear_interpolation,nearest,,,,all,,,2024,1
+fast: iron and steel|steam coal 6000|electricity,global,,,linear_interpolation,nearest,,,,all,,,2024,1

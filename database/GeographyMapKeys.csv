@@ -1,0 +1,56 @@
+name
+vti food and beverages
+vti pulp and paper
+vti others
+vti chemicals
+vti textile
+vti mining and pelletization
+vti non-ferrous metals
+vti iron alloys
+vti ceramics
+cement physical production
+steel physical production
+pig iron physical production
+food and beverages-diesel
+food and beverages-lpg
+food and beverages-heavy fuel oil
+ceramics-petroleum coke
+ceramics-diesel
+ceramics-lpg
+ceramics-heavy fuel oil
+cement-petroleum coke
+cement-diesel
+cement-lpg
+cement-heavy fuel oil
+iron alloys-petroleum coke
+iron alloys-lpg
+iron alloys-heavy fuel oil
+iron and steel-petroleum coke
+iron and steel-diesel
+iron and steel-lpg
+iron and steel-heavy fuel oil
+mining and pelletization-petroleum coke
+mining and pelletization-diesel
+mining and pelletization-lpg
+mining and pelletization-heavy fuel oil
+non-ferrous metals-lpg
+non-ferrous metals-heavy fuel oil
+others-petroleum coke
+others-diesel
+others-lpg
+others-heavy fuel oil
+pulp and paper-diesel
+pulp and paper-lpg
+pulp and paper-heavy fuel oil
+chemicals-petroleum coke
+chemicals-diesel
+chemicals-lpg
+chemicals-refinery gas
+chemicals-heavy fuel oil
+textile-diesel
+textile-lpg
+textile-heavy fuel oil
+agriculture area
+agriculture-diesel
+tot_p_p
+flat

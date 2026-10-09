@@ -1,0 +1,6 @@
+name,shape,max_lead_hours,max_lag_hours
+industry,industry_electricity,,
+commercial,commercial_electricity,,
+residential,residential_electricity,,
+data centers,data centers_electricity,,
+public lighting,public lighting_electricity,,
